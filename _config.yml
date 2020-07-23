@@ -1,4 +1,88 @@
+# Site Settings
 theme: jekyll-theme-minimal
-image: ![profile pic](https://github.com/sophiajm3/sophiajm3.github.io/blob/master/images/IMG_2060%20-%20Copy.JPG)
-title: Welcome to Sophia's page!
-description: I am using this site to keep track of completed and in-progress projects. email me to learn more.
+title: Sophia Marinova
+description: Welcome to my site, where I host my resume and keep a running record of projects.
+name: Sophia Marinova
+
+# My Content
+
+# Menu bar Links
+primarylinks:
+  - title: Github
+    url: https://www.github.com/sophiajm
+  - title: Resume
+    url: https://sophiajm.github.io/resume/
+  - title: Portfolio
+    url: https://sophiajm.github.io/portfolio/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sophia-marinova/
+  - title: Contact
+    url: https://sophiajm.github.io/resume/
+    
+# Buzzwords? Skills?
+skills: 
+  - Hello
+  - Welcome
+  - Goodbye
+  
+# Experience
+roles:
+  - title: 
+    employer: 
+    role: 
+    start: 
+    end: 
+    description: 
+  - title: 
+    employer: 
+    role: 
+    start: 
+    end: 
+    description: 
+  - title: 
+    employer: 
+    role: 
+    start: 
+    end: 
+    description: 
+
+# Education
+education:
+  - level: Bachelor of Science (B.S.)
+    school: Georgia Institute of Technology
+    completed: 2018
+    major: Industrial & Systems Engineering
+    concentrations: Operations Research, Materials Science
+
+ # Certifications
+ certification:
+  - title: 
+    received: 
+    end: 
+    software: 
+  - title: 
+    received: 
+    end: 
+    software: 
+  - title: 
+    received: 
+    end: 
+    software: 
+  
+ # Current/interesting projects?
+ github:
+ - sophiajm/resume/
+    
+# stackoverflow?
+stackoverflow:
+  profileurl: https://stackoverflow.com/users/13931416/sophiajm?tab=profile
+  #flairimageurl: http://stackoverflow.com/users/flair/258813.png
+
+# optional additional info
+#additionalinfo:
+      
+
+
+
+
+# With thanks to Rob Hinds, https://dzone.com/articles/how-to-turn-your-github-page-into-a-personalized-r
