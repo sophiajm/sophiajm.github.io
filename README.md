@@ -1,2 +1,2 @@
-# sophiajmarinova.github.io
+# sophiajm.github.io
 First attempt at creating a github pages site.
