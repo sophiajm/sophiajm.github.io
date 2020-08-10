@@ -5,6 +5,7 @@ description: Welcome to my site, where I host my resume and keep a running recor
 name: Sophia Marinova
 image: ![profile pic](https://github.com/sophiajm3/sophiajm3.github.io/blob/master/images/IMG_2060%20-%20Copy.JPG)
 url: [visit my github page](https://www.github.com/sophiajm)
+<h1>{{ page.food }}</h1>
 
 # My Content
 
