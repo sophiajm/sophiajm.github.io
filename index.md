@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 No trouble YET
 
----
+## HELLO WHERE IS MY TEXT 
 layout: default
 ---
 
