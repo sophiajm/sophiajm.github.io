@@ -37,3 +37,24 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 No trouble YET
+
+---
+layout: default
+---
+
+<div class="row">
+	<div class="col-md-9 rightBorder">
+<!--{% include section_intro.html %}-->
+		{% include section_skills.html %}
+		{% include section_roles.html %}
+		{% include section_education.html %}
+		{% include section_github.html %}
+		{% include section_certification.html %}
+		{% include section_additionalinfo.html %}
+<!--		{% include section_speakerdeck.html %}-->
+	</div>
+	<div class="col-md-3">
+		{% include section_stackoverflow.html %}
+<!--		{% include section_blogs.html %}-->
+	</div>
+</div>
