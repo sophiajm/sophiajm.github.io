@@ -1,5 +1,5 @@
 # Site Settings
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: Sophia Marinova
 description: Welcome to my site, where I host my resume and keep a running record of projects.
 name: Sophia Marinova
@@ -86,5 +86,3 @@ stackoverflow:
 
 
 # With thanks to Rob Hinds, https://dzone.com/articles/how-to-turn-your-github-page-into-a-personalized-r
-
-theme: jekyll-theme-minimal
