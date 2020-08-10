@@ -86,3 +86,5 @@ stackoverflow:
 
 
 # With thanks to Rob Hinds, https://dzone.com/articles/how-to-turn-your-github-page-into-a-personalized-r
+
+theme: jekyll-theme-minimal
