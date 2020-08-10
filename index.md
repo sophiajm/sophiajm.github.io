@@ -46,15 +46,15 @@ layout: default
 	<div class="col-md-9 rightBorder">
 <!--{% include section_intro.html %}-->
 		{% include section_skills.html %}
-		{% include section_roles.html %}
-		{% include section_education.html %}
-		{% include section_github.html %}
-		{% include section_certification.html %}
-		{% include section_additionalinfo.html %}
+	<!--	{% include section_roles.html %}-->
+	<!--	{% include section_education.html %}-->
+	<!--	{% include section_github.html %}-->
+	<!--	{% include section_certification.html %}-->
+	<!--	{% include section_additionalinfo.html %}-->
 <!--		{% include section_speakerdeck.html %}-->
 	</div>
-	<div class="col-md-3">
-		{% include section_stackoverflow.html %}
+	<!--<div class="col-md-3">-->
+		<!--{% include section_stackoverflow.html %}-->
 <!--		{% include section_blogs.html %}-->
-	</div>
+	<!--</div>-->
 </div>
