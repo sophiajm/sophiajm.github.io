@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages (NO!!!!!!!)
+## Welcome to GitHub Pages (Currently Under Construction!)
 
 You can use the [editor on GitHub](https://github.com/sophiajm3/sophiajmarinova.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -38,9 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 No trouble YET
 
-## HELLO WHERE IS MY TEXT 
-layout: default
----
+## INSERT BELOW
 
 <div class="row">
 	<div class="col-md-9 rightBorder">
