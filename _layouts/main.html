@@ -3,17 +3,17 @@ layout: default
 ---
 <aside class="sidebar">
   <header>
-    <div class="about">
-      <div class="cover-author-image">
-        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.profilepic %}{{site.profilepic}}{% endif %}" alt="{{site.name}}"></a>
+    <div class="profile">
+      <div class="profilepic">
+        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/images/{{site.profilepic}}" alt="{{site.name}}"></a>
       </div>
       <div class="name">{{site.name}}</div>
       <p>{{site.profileabout}}</p>
     </div>
-  </header> <!-- End Header -->
+  </header>
   <footer>
     <section class="contact">
-      <h3 class="contact-title">Contact me</h3>
+      <h3 class="contacttitle">Contact me</h3>
       <ul>
         {% if site.contactgithub %}
           <li class="github"><a href="http://github.com/{{site.social-github}}" target="_blank"><i class="fa fa-github"></i></a></li>
@@ -31,9 +31,9 @@ layout: default
           <li class="email"><a href="mailto:sofiajmarinova@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         {% endif %}
       </ul>
-    </section> <!-- End Section Contact -->
-  </footer> <!-- End Footer -->
-</aside> <!-- End Sidebar -->
-<div class="content-box clearfix">
+    </section>
+  </footer>
+</aside>
+<div class="contentbox clearfix">
   {{ content }}
 </div>
