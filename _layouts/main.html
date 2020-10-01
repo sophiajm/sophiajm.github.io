@@ -15,21 +15,9 @@ layout: default
     <section class="contact">
       <h3 class="contacttitle">Contact me</h3>
       <ul>
-        {% if site.contactgithub %}	        
-          <li class="github"><a href="http://github.com/{{site.contactgithub}}" target="_blank"><i class="fa fa-github"></i></a></li>
-        {% else %}	
-          <li class="github"><a href="http://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>	
-        {% endif %}
-        {% if site.contactlinkedin %}
-          <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.contactlinkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-        {% else %}
-          <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-        {% endif %}
-        {% if site.contactemail %}
-          <li class="email"><a href="mailto:{{site.contactemail}}"><i class="fa fa-envelope-o"></i></a></li>
-        {% else %}
-          <li class="email"><a href="mailto:sofiajmarinova@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-        {% endif %}
+        <li class="github"><a href="http://github.com/{{site.contactgithub}}" target="_blank"><i class="fa fa-github"></i></a></li>
+        <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.contactlinkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        <li class="email"><a href="mailto:{{site.contactemail}}"><i class="fa fa-envelope-o"></i></a></li>
       </ul>
     </section>
   </footer>
