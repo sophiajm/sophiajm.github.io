@@ -1,14 +1,19 @@
 # Site Settings
-theme: jekyll-theme-minimal
 title: Sophia Marinova
-description: Welcome to my site, where I host my resume and keep a running record of projects.
-name: Sophia Marinova
-avatar: https://github.com/sophiajm3/sophiajm3.github.io/blob/master/images/IMG_2060%20-%20Copy.JPG
+description: Welcome to my site. Still under construction!
 # description: https://www.github.com/sophiajm
 email: sophiajmarinova@gmail.com
 github_username: sophiajm
 
 # My Content
+name: Sophia Marinova
+profilepic: instagram-avatar.jpg
+about: Hello! I like math, data, and learning more about the world.
+
+# Settings
+markdown: kramdown
+plugins:
+ - jekyll-sitemap
 
 # Menu bar Links
 primarylinks:
