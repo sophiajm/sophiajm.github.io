@@ -1,32 +1,31 @@
 # Site Settings
 title: LOOP! Sophia Marinova
 description: Welcome to my site. Still under construction!
-# description: https://www.github.com/sophiajm
+url: ""
 email: sophiajmarinova@gmail.com
 github_username: sophiajm
 
 # My Content
 name: Sophia Marinova
 profilepic: instagram-avatar.jpg
-about: Hello! I like math, data, and learning more about the world.
+profileabout: Hello! I like math, data, and learning more about the world.
 
 # Settings
 markdown: kramdown
 plugins:
  - jekyll-sitemap
 
-# Menu bar Links
+# Contact Links
+contactgithub: sophiajm
+contactlinkedin: sophia-marinova
+contactemail: sophiajmarinova@gmail.com
+
+# Menubar Links
 primarylinks:
-  - title: Github
-    url: https://www.github.com/sophiajm
   - title: Resume
     url: https://sophiajm.github.io/resume/
   - title: Portfolio
     url: https://sophiajm.github.io/portfolio/
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/sophia-marinova/
-  - title: Contact
-    url: https://sophiajm.github.io/resume/
     
 # Buzzwords? Skills?
 skills: 
