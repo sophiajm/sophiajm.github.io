@@ -1,4 +1,6 @@
 @import 'variables';
+@import 'normalize';
+@import 'syntax';
 
 *, *::after, *::before {
   box-sizing: border-box;
@@ -136,3 +138,4 @@ table tfoot td {
 
 @import 'main_page';
 @import 'page';
+@import 'media';
