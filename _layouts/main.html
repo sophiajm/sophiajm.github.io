@@ -9,6 +9,10 @@ layout: default
       </div>
       <div class="name">{{site.name}}</div>
       <p>{{site.profileabout}}</p>
+      <p>{{site.profilenote}}</p>
+      {% for link in site.primarylinks %}
+        <li><a target='_blank' href="{{link.url}}">{{link.title}}</a></li>
+			{% endfor %}
     </div>
   </header>
   <footer>
