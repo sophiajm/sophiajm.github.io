@@ -1,3 +1,4 @@
+/*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
 /**
@@ -978,7 +979,7 @@ table tfoot td {
   font-weight: 700;
 }
 
-.profile .name::after {
+/* .profile .name::after {
   content: "";
   position: absolute;
   left: 50%;
@@ -992,7 +993,7 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   background-color: #515151;
-}
+} */
 
 .profile p {
   font-size: 16px;
@@ -1092,3 +1093,5 @@ table tfoot td {
       -ms-transform: scale(1.2);
           transform: scale(1.2);
 }
+
+/* all credit to artemsheludko/flexible-jekyll */
