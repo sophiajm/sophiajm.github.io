@@ -8,9 +8,8 @@ github_username: sophiajm
 # My Content
 name: Sophia Marinova
 profilepic: instagram-avatar.jpg
-profileabout: > 
- Hello! I like math, data, and learning more about the world.
- This site is still under construction.
+profileabout: Hello! I like math, data, and learning more about the world.
+profilenote: Still under construction!
 
 # Settings
 markdown: kramdown
